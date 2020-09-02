@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-28T19:28:58 IST" name="Default suite" finished-at="2020-08-28T19:29:00 IST" duration-ms="2293">
+    <groups>
+    </groups>
+    <test started-at="2020-08-28T19:28:58 IST" name="Default test" finished-at="2020-08-28T19:29:00 IST" duration-ms="2293">
+      <class name="com.niraj.Sample_Test">
+        <test-method signature="TestGetMethod()[pri:0, instance:com.niraj.Sample_Test@5db250b4]" started-at="2020-08-28T19:28:58 IST" name="TestGetMethod" finished-at="2020-08-28T19:29:00 IST" duration-ms="2262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetMethod -->
+      </class> <!-- com.niraj.Sample_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4341" started-at="2020-09-02T13:43:47 IST" finished-at="2020-09-02T13:43:52 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4341" started-at="2020-09-02T13:43:47 IST" finished-at="2020-09-02T13:43:52 IST">
+      <class name="com.niraj.POSTMethod">
+        <test-method status="PASS" signature="TestPostMethod()[pri:0, instance:com.niraj.POSTMethod@f6c48ac]" name="TestPostMethod" duration-ms="3460" started-at="2020-09-02T13:43:48 IST" finished-at="2020-09-02T13:43:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPostMethod -->
+      </class> <!-- com.niraj.POSTMethod -->
+      <class name="com.niraj.Sample_Test">
+        <test-method status="PASS" signature="TestGetMethod()[pri:0, instance:com.niraj.Sample_Test@13deb50e]" name="TestGetMethod" duration-ms="827" started-at="2020-09-02T13:43:51 IST" finished-at="2020-09-02T13:43:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGetMethod -->
+      </class> <!-- com.niraj.Sample_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

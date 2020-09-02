@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2020-09-02T13:44:40 IST" finished-at="2020-09-02T13:44:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2020-09-02T13:44:40 IST" finished-at="2020-09-02T13:44:40 IST">
+      <class name="com.niraj.Test1">
+        <test-method status="PASS" signature="testPrintMessage()[pri:0, instance:com.niraj.Test1@6f7fd0e6]" name="testPrintMessage" duration-ms="6" started-at="2020-09-02T13:44:40 IST" finished-at="2020-09-02T13:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrintMessage -->
+      </class> <!-- com.niraj.Test1 -->
+      <class name="com.niraj.Test2">
+        <test-method status="PASS" signature="testSalutationMessage()[pri:0, instance:com.niraj.Test2@47c62251]" name="testSalutationMessage" duration-ms="0" started-at="2020-09-02T13:44:40 IST" finished-at="2020-09-02T13:44:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSalutationMessage -->
+      </class> <!-- com.niraj.Test2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
